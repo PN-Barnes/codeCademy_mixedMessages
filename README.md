@@ -10,3 +10,5 @@ the number outputted is then used to select a random message nested within the a
 The script will generate a random music genre.
 Then, it will select a band within that genre.
 Once a band is selected, a song from that band will be output as the song of the day.
+
+Let me know what you think of my project and if there is anyway I can be more efficient with my coding. Thank you.
